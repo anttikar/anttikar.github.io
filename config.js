@@ -211,6 +211,7 @@ System.config({
     ],
     "photo-browser.js": [
       "aurelia-framework",
+      "app",
       "./services/RestService"
     ],
     "photo-viewer.js": [
